@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Andrew Havens"]
   spec.email         = ["email@andrewhavens.com"]
 
-  spec.summary       = %q{Easy icons generators for your RubyMotion app.}
-  spec.description   = %q{Easy icons generators for your RubyMotion app.}
+  spec.summary       = %q{The easiest way to add icons to your RubyMotion app.}
+  spec.description   = %q{The easiest way to add icons to your RubyMotion app.}
   spec.homepage      = "https://github.com/andrewhavens/moticons"
   spec.license       = "MIT"
 
