@@ -21,7 +21,7 @@ gem 'moticons'
 
 And then execute:
 
-    $ bundle
+    $ bundle && rake pod:install
 
 ## Usage
 
