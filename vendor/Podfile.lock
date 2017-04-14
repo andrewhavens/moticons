@@ -1,24 +1,32 @@
 PODS:
-  - FontAwesomeKit (2.2.0):
-    - FontAwesomeKit/Core (= 2.2.0)
-    - FontAwesomeKit/FontAwesome (= 2.2.0)
-    - FontAwesomeKit/FoundationIcons (= 2.2.0)
-    - FontAwesomeKit/IonIcons (= 2.2.0)
-    - FontAwesomeKit/Zocial (= 2.2.0)
-  - FontAwesomeKit/Core (2.2.0)
-  - FontAwesomeKit/FontAwesome (2.2.0):
+  - FontAwesomeKit (2.2.1):
+    - FontAwesomeKit/Core (= 2.2.1)
+    - FontAwesomeKit/FontAwesome (= 2.2.1)
+    - FontAwesomeKit/FoundationIcons (= 2.2.1)
+    - FontAwesomeKit/IonIcons (= 2.2.1)
+    - FontAwesomeKit/Material (= 2.2.1)
+    - FontAwesomeKit/Octicons (= 2.2.1)
+    - FontAwesomeKit/Zocial (= 2.2.1)
+  - FontAwesomeKit/Core (2.2.1)
+  - FontAwesomeKit/FontAwesome (2.2.1):
     - FontAwesomeKit/Core
-  - FontAwesomeKit/FoundationIcons (2.2.0):
+  - FontAwesomeKit/FoundationIcons (2.2.1):
     - FontAwesomeKit/Core
-  - FontAwesomeKit/IonIcons (2.2.0):
+  - FontAwesomeKit/IonIcons (2.2.1):
     - FontAwesomeKit/Core
-  - FontAwesomeKit/Zocial (2.2.0):
+  - FontAwesomeKit/Material (2.2.1):
+    - FontAwesomeKit/Core
+  - FontAwesomeKit/Octicons (2.2.1):
+    - FontAwesomeKit/Core
+  - FontAwesomeKit/Zocial (2.2.1):
     - FontAwesomeKit/Core
 
 DEPENDENCIES:
-  - FontAwesomeKit (~> 2.2)
+  - FontAwesomeKit (~> 2.2.1)
 
 SPEC CHECKSUMS:
-  FontAwesomeKit: 025fd4dd1017fe4e3f8d47b03e024deedbb33cd4
+  FontAwesomeKit: 3614979b3dbb0ec3f7fac1bd760b91f66c31db67
 
-COCOAPODS: 0.37.2
+PODFILE CHECKSUM: c047225a5263f0a1cb74d582a63f10f6cfb10b0b
+
+COCOAPODS: 1.2.1
