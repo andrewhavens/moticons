@@ -4,12 +4,15 @@ Moticons is the easiest way to add icons to your RubyMotion project. It provides
 
 Moticons is a wrapper around the [FontAwesomeKit CocoaPod](https://github.com/PrideChung/FontAwesomeKit).
 
-Supported icon collections include:
+Currently Moticons supports **6** different icon fonts.
 
-* [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
-* [Foundation](http://zurb.com/playground/foundation-icon-fonts-3)
-* [Zocial](http://zocial.smcllns.com)
-* [Ionicons](http://ionicons.com)
+- [FontAwesome 4.7](http://fontawesome.io) Our old friend, contains **675** icons
+- [Foundation icons](http://zurb.com/playground/foundation-icon-fonts-3) Contains **283** icons.
+- [Zocial](http://zocial.smcllns.com/) Contains **99** social icons.
+- [ionicons 2.0.0](http://ionicons.com/) Contains **733** icons, lots of iOS 7 style outlined icons.
+- [Octicons 2.4.1](https://octicons.github.com/) Contains **206** icons, built with love by Github.
+- [Material 2.0.0](https://google.github.io/material-design-icons/) Contains **743** icons, built by Google for Material design.
+
 
 ## Installation
 
@@ -35,6 +38,8 @@ The collection names are:
 * Foundation - `:foundation`
 * Zocial - `:zocial`
 * Ionicons - `:ion`
+* Octicons - `:octicon`
+* Material - `:material`
 
 The icon names are the typical, Ruby snake-cased version of the original name. For example, you would refer to the Font Awesome `cart-arrow-down` icon as `cart_arrow_down`.
 

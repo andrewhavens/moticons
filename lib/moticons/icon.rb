@@ -1,10 +1,12 @@
 module Moticons
   class Icon
     COLLECTION_CLASSES = {
-      awesome: :FAKFontAwesome,
+      awesome:    :FAKFontAwesome,
       foundation: :FAKFoundationIcons,
-      ion: :FAKIonIcons,
-      zocial: :FAKZocial
+      ion:        :FAKIonIcons,
+      zocial:     :FAKZocial,
+      octicon:    :FAKOcticons,
+      material:   :FAKMaterialIcons
     }
 
     attr_reader :collection, :name, :size, :color
